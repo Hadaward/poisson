@@ -1,1 +1,0 @@
-"%ProgramFiles%\Java\jre7\bin\java.exe" -Xincgc -Xmx1G -jar PoissonServer.jar
