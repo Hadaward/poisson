@@ -1,0 +1,1 @@
+Tested with Lua 5.1.2 with LuaSocket 2.0.2

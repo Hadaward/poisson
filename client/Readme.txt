@@ -1,0 +1,1 @@
+FLA is for Flash CC, but should work fine in CS6 also.
